@@ -1,12 +1,12 @@
 ## 100 Days of ML
 
 #### 11/15/2021 Mon (Day 12)
-30 Day of ML - Kaggle - Day 1-7 - Completed Pythonl. On to Day 8 - ML
-https://www.kaggle.com/thirty-days-of-ml-assignments
+30 Day of ML - Kaggle - Day 1-8 Completed basics. Need to move on to advanced and hands on.
+- https://www.kaggle.com/thirty-days-of-ml-assignments
 
 #### 07/07/2021 Wed (Day 11)
 Spacy NLP Tutotorial
-https://www.machinelearningplus.com/spacy-tutorial-nlp/
+- https://www.machinelearningplus.com/spacy-tutorial-nlp/
 
 #### 05/11/2021 Sun (Day 10)
 Continue with reviewing discussion analysis of Kaggle competition - CommonLit Readability prize.
