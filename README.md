@@ -1,7 +1,7 @@
 ## 100 Days of ML
 
 #### 11/15/2021 Mon (Day 13)
-30 Day of ML - Kaggle - Day 9 Lesson 3
+30 Day of ML - Kaggle - Day 9 (Model Validation), Day 10 (Underfitting, Overfitting, Random Forests)
 - https://www.kaggle.com/thirty-days-of-ml-assignments
 - 
 #### 11/15/2021 Mon (Day 12)
