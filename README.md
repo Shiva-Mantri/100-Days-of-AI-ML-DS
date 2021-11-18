@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 11/15/2021 Mon (Day 13)
+30 Day of ML - Kaggle - Day 9 Lesson 3
+- https://www.kaggle.com/thirty-days-of-ml-assignments
+- 
 #### 11/15/2021 Mon (Day 12)
 30 Day of ML - Kaggle - Day 1-8 Completed basics. Need to move on to advanced and hands on.
 - https://www.kaggle.com/thirty-days-of-ml-assignments
