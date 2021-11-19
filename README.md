@@ -1,7 +1,12 @@
 ## 100 Days of ML
 
-#### 11/15/2021 Mon (Day 13)
-30 Day of ML - Kaggle - Day 9 (Model Validation), Day 10 (Underfitting, Overfitting, Random Forests)
+
+#### 11/19/2021 Mon (Day 14)
+30 Day of ML - Kaggle - Day 9 (Model Validation). Still in Day 9. Researching Pandas, Sklearn.
+- https://www.kaggle.com/thirty-days-of-ml-assignments
+- 
+#### 11/18/2021 Mon (Day 13)
+30 Day of ML - Kaggle - Day 9 (Model Validation)
 - https://www.kaggle.com/thirty-days-of-ml-assignments
 - 
 #### 11/15/2021 Mon (Day 12)
