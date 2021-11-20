@@ -1,14 +1,17 @@
 ## 100 Days of ML
 
+#### 11/20/2021 Mon (Day 15)
+30 Day of ML - Kaggle - Day 10 (Underfitting & OverFitting).
+- https://www.kaggle.com/thirty-days-of-ml-assignments
 
 #### 11/19/2021 Mon (Day 14)
 30 Day of ML - Kaggle - Day 9 (Model Validation). Still in Day 9. Researching Pandas, Sklearn.
 - https://www.kaggle.com/thirty-days-of-ml-assignments
-- 
+
 #### 11/18/2021 Mon (Day 13)
 30 Day of ML - Kaggle - Day 9 (Model Validation)
 - https://www.kaggle.com/thirty-days-of-ml-assignments
-- 
+
 #### 11/15/2021 Mon (Day 12)
 30 Day of ML - Kaggle - Day 1-8 Completed basics. Need to move on to advanced and hands on.
 - https://www.kaggle.com/thirty-days-of-ml-assignments
