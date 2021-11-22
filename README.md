@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 11/21/2021 Mon (Day 16)
+30 Day of ML - Kaggle - Day 11 (ML Competitions), Day 12 (Intermediate ML).
+- https://www.kaggle.com/thirty-days-of-ml-assignments
+- 
 #### 11/20/2021 Mon (Day 15)
 30 Day of ML - Kaggle - Day 10 (Underfitting & OverFitting).
 - https://www.kaggle.com/thirty-days-of-ml-assignments
