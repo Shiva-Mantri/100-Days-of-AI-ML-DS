@@ -163,7 +163,7 @@ What is really needed to be consumed: https://images.app.goo.gl/RTQJLnYAuZJH49VE
   - Use Udemy training AI/ML A-Z
  
 #### Papers
-- Real Time Recognition of Handwritten Math Functions and Predicting their Graphs using Machine Learning & Computer Vision [Git](https://github.com/JianshuZhang/WAP)
+- [Real Time Recognition of Handwritten Math Functions and Predicting their Graphs using Machine Learning & Computer Vision](https://github.com/JianshuZhang/WAP)
 - Nov - https://github.com/mlech26l/keras-ncp/ - Neural Circuit Policies Enabling Auditable Autonomy - https://techxplore.com/news/2020-10-deep-neurons-intelligence.html
 - Dec - https://arxiv.org/abs/2009.08449 - https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/
 
