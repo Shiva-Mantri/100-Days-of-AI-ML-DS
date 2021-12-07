@@ -4,7 +4,8 @@
 30 Day of ML - Kaggle - Day 12 (Categorical values). Complete.
 
 #### 12/02/2021 Thu (Day 19)
-ML Ops - Arrikto, Kubeflow and Kubernetes (K8s). Overview.
+ML Ops - Arrikto, Kubeflow and Kubernetes (K8s). 
+>At the core of Arrikto is Kubeflow, the Google-incubated open-source machine learning toolkit for Kubernetes — and in many ways, you can think of Arrikto as offering an enterprise-ready version of Kubeflow. Among other projects, the team also built MiniKF to run Kubeflow on a laptop and uses Kale, which lets engineers build Kubeflow pipelines from their JupyterLab notebooks. Founder - Venetsanopoulos noted that just like Kubernetes showed businesses what a simple and scalable infrastructure could look like, Arrikto can show them what a simpler ML production pipeline can look like — and do so in a Kubernetes-native way. [source](https://techcrunch.com/2020/11/16/arrikto-raises-10m-for-its-mlops-platform/)
 
 #### 12/01/2021 Wed (Day 18)
 30 Day of ML - Kaggle - Day 12 (Categorical values).
