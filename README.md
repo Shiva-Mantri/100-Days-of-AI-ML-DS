@@ -1,5 +1,11 @@
 ## 100 Days of ML
 
+#### 12/07/2021 Tue (Day 20)
+30 Day of ML - Kaggle - Day 12 (Categorical values). Complete.
+
+#### 12/02/2021 Thu (Day 19)
+ML Ops - Arrikto, Kubeflow and Kubernetes (K8s). Overview.
+
 #### 12/01/2021 Wed (Day 18)
 30 Day of ML - Kaggle - Day 12 (Categorical values).
 
