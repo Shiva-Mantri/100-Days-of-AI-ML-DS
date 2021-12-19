@@ -181,11 +181,13 @@ What is really needed to be consumed: https://images.app.goo.gl/RTQJLnYAuZJH49VE
 
 #### NLP
 - NLP with Python - https://www.udemy.com/course/nlp-natural-language-processing-with-python/
+- NLP for Semantic Search - https://www.pinecone.io/learn/nlp/?utm_content=191153198&utm_medium=social&utm_source=twitter&hss_channel=tw-1287624141001109504&s=03
 - Real World NLP - https://www.manning.com/books/real-world-natural-language-processing
 - Hands-On Natural Language Processing with Python - [https://www.packtpub.com/free-ebooks/big-data-and-business-intelligence/hands-natural-language-processing-python](https://www.packtpub.com/free-ebooks/big-data-and-business-intelligence/hands-natural-language-processing-python/9781789139495?utm_source=dzone.com&utm_medium=referral&utm_campaign=OutreachB10499Dollar5)
 - Hugging Face HTML - One NLP to rule them all - https://medium.com/huggingface/beating-the-state-of-the-art-in-nlp-with-hmtl-b4e1d5c3faf
 - Experience Grounds Language - https://arxiv.org/abs/2004.10151
   - https://twitter.com/universeinanegg/status/1252762166823804928
+- NLP with Deep Learning - http://web.stanford.edu/class/cs224n/
 
 ##### DataScience
 - OpenSafely data - https://opensafely.org/outputs/2020/05/covid-risk-factors/ - Risk factors for COVID-19 death revealed in world’s largest analysis of patient records to date.
