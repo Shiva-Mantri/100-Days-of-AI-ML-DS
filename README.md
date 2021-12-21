@@ -1,5 +1,8 @@
 ## 100 Days of ML
 
+#### 12/15/2021 Wed (Day 21)
+Containers and Kubernets
+
 #### 12/07/2021 Tue (Day 20)
 30 Day of ML - Kaggle - Day 12 (Categorical values). Complete.
 
@@ -16,7 +19,7 @@ ML Ops - Arrikto, Kubeflow and Kubernetes (K8s).
 #### 11/21/2021 Sun (Day 16)
 30 Day of ML - Kaggle - Day 11 (ML Competitions), Day 12 (Intermediate ML).
 - https://www.kaggle.com/thirty-days-of-ml-assignments
-- 
+
 #### 11/20/2021 Sat (Day 15)
 30 Day of ML - Kaggle - Day 10 (Underfitting & OverFitting).
 - https://www.kaggle.com/thirty-days-of-ml-assignments
