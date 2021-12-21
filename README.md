@@ -1,7 +1,7 @@
 ## 100 Days of ML
 
 #### 12/15/2021 Wed (Day 21)
-Containers and Kubernets
+Containers and Kubernetes
 
 #### 12/07/2021 Tue (Day 20)
 30 Day of ML - Kaggle - Day 12 (Categorical values). Complete.
