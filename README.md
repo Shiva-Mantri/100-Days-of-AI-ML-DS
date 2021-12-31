@@ -1,10 +1,26 @@
 ## 100 Days of ML
 
+
+#### 12/30/2021 - 01/02/2022 Tue (Days 30 - 33)
+ML Design Patterns - O'Reilly Books - https://learning.oreilly.com/library/view/machine-learning-design
+
+#### 12/24/2021 - 12/28/2021 Tue (Days 25 - 29)
+Complete - Kaggle NLP - https://www.kaggle.com/learn/natural-language-processing
+
+#### 12/23/2021 Tue (Day 24)
+Kaggle NLP - https://www.kaggle.com/learn/natural-language-processing
+
+#### 12/22/2021 Tue (Day 23)
+Kaggle NLP - https://www.kaggle.com/learn/natural-language-processing
+
+#### 12/21/2021 Tue (Day 22)
+Udemy NLP by Jose Portilla - https://www.udemy.com/course/nlp-natural-language-processing-with-python/
+
 #### 12/15/2021 Wed (Day 21)
 Containers and Kubernetes
 
 #### 12/07/2021 Tue (Day 20)
-30 Day of ML - Kaggle - Day 12 (Categorical values). Complete.
+Complete - 30 Day of ML - Day 12 (Categorical values)
 
 #### 12/02/2021 Thu (Day 19)
 ML Ops - Arrikto, Kubeflow and Kubernetes (K8s). 
