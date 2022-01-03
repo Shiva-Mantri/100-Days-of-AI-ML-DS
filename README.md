@@ -2,7 +2,7 @@
 
 
 #### 12/30/2021 - 01/02/2022 Tue (Days 30 - 33)
-ML Design Patterns - O'Reilly Books - https://learning.oreilly.com/library/view/machine-learning-design
+ML Design Patterns - O'Reilly Books - https://learning.oreilly.com/library/view/machine-learning-design. Amazing book for ML Refernce. Breezed through most of the book after chapter 2. Book to own.
 
 #### 12/24/2021 - 12/28/2021 Tue (Days 25 - 29)
 Complete - Kaggle NLP - https://www.kaggle.com/learn/natural-language-processing
