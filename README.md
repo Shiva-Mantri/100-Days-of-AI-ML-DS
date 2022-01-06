@@ -1,5 +1,7 @@
 ## 100 Days of ML
 
+#### 01/03/2022 - 01/06/2022 Thu (Days 34 - 37)
+Mastering Spacy - O'Reilly Books - https://learning.oreilly.com/library/view/mastering-spacy.
 
 #### 12/30/2021 - 01/02/2022 Tue (Days 30 - 33)
 ML Design Patterns - O'Reilly Books - https://learning.oreilly.com/library/view/machine-learning-design. Amazing book for ML Refernce. Breezed through most of the book after chapter 2. Book to own.
