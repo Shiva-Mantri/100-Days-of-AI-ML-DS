@@ -1,5 +1,8 @@
 ## 100 Days of ML
 
+#### 01/11/2022 - 01/13/2022 Thu (Days 37 - 39)
+[Predicting solar power output using machine learning techniques by Abiodun Olaoye](https://towardsdatascience.com/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f), Github: https://github.com/abbey2017/solar-energy-analytics
+
 #### 01/03/2022 - 01/06/2022 Thu (Days 34 - 37)
 Mastering Spacy - O'Reilly Books - https://learning.oreilly.com/library/view/mastering-spacy.
 
