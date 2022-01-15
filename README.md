@@ -1,5 +1,8 @@
 ## 100 Days of ML
 
+#### 01/14/2022 - 01/17/2022 Thu (Days 40 - 43)
+Mastering Spacy - Hard copy book - got from amazon. O'Reilly 10 day free access expired :(.
+
 #### 01/11/2022 - 01/13/2022 Thu (Days 37 - 39)
 [Predicting solar power output using machine learning techniques by Abiodun Olaoye](https://towardsdatascience.com/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f), Github: https://github.com/abbey2017/solar-energy-analytics
 
