@@ -1,5 +1,8 @@
 ## 100 Days of ML
 
+#### 01/21/2022 - 01/23/2023 Sun (Day 45 - 47)
+Data Engineering ZoomCamp - Wk 1 - Videos and HW submission;
+
 #### 01/20/2022 Thu (Day 44)
 Data Engineering ZoomCamp - Wk 1; Mastering Spacy - Chap 3;
 
