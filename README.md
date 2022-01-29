@@ -1,10 +1,16 @@
 ## 100 Days of ML
 
-#### 01/21/2022 - 01/23/2023 Sun (Day 45 - 47)
+#### 01/29/2022 - 02/01/2023 Mon (Day 53 - 56)
+Data Engineering ZoomCamp - Wk 2 - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_2_data_ingestion
+
+#### 01/25/2022 - 01/28/2023 Sun (Day 49 - 52)
+Mastering Spacy Ch 3 - Linguistic Features, Ch 4 - Rule Based Matching, Ch 5 Working with Word Vectors and Semantic Similarity;
+
+#### 01/21/2022 - 01/24/2023 Mon (Day 45 - 48)
 Data Engineering ZoomCamp - Wk 1 - Videos and HW submission;
 
 #### 01/20/2022 Thu (Day 44)
-Data Engineering ZoomCamp - Wk 1; Mastering Spacy - Chap 3;
+Data Engineering ZoomCamp - Wk 1; Mastering Spacy - Ch 3;
 
 #### 01/14/2022 - 01/17/2022 Mon (Days 40 - 43)
 Mastering Spacy - Hard copy book - got from amazon. O'Reilly 10 day free access expired :(.
