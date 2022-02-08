@@ -1,5 +1,8 @@
 ## 100 Days of ML
 
+#### 02/04/2022 - 02/06/2023 Mon (Day 57 - 59)
+Data Engineering ZoomCamp - Wk 2 HW - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_2_data_ingestion
+
 #### 01/29/2022 - 02/01/2023 Mon (Day 53 - 56)
 Data Engineering ZoomCamp - Wk 2 - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_2_data_ingestion
 
