@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 02/09/2022 Wed (Day 60)
+- Understand Jekyll, components, GITHub.io integration - Simple and Fast intro to Jekyll and components https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
+- Launch https://shiva-mantri.github.io - Release First, Perfect Next
+
 #### 02/04/2022 - 02/06/2023 Mon (Day 57 - 59)
 Data Engineering ZoomCamp - Wk 2 HW - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_2_data_ingestion
 
