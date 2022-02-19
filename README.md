@@ -1,5 +1,13 @@
 ## 100 Days of ML
 
+#### 02/18/2022 - 02/20/2023 Mon (Day 64 - 66)
+- Data Engineering ZoomCamp - Wk 4 Course and HW - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_4_analytics_engineering
+- Analytics Engineering, DBT
+
+#### 02/11/2022 - 02/13/2023 Mon (Day 61 - 63)
+- Data Engineering ZoomCamp - Wk 3 Course and HW - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_3_data_warehouse
+- Data Warehouse, BigQuery, Partitioning, Clustering
+
 #### 02/09/2022 Wed (Day 60)
 - Understand Jekyll, components, GITHub.io integration - Simple and Fast intro to Jekyll and components https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
 - Launch https://shiva-mantri.github.io - Release First, Perfect Next
