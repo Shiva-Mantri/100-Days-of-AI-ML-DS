@@ -1,5 +1,10 @@
 ## 100 Days of ML
 
+#### 03/13/2023 Sun (~Day 70)
+- Data Engineering ZoomCamp - Wk 5 (Batch Processing - Spark), Wk 6 (Stream Processing - Kafka)
+	- Spark - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_5_batch_processing
+	- Kafka - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_6_stream_processing
+
 #### 02/18/2022 - 02/20/2023 Mon (Day 64 - 66)
 - Data Engineering ZoomCamp - Wk 4 Course and HW - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_4_analytics_engineering
 - Analytics Engineering, DBT
