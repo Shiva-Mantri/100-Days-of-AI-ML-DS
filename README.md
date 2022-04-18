@@ -1,5 +1,10 @@
 ## 100 Days of ML
 
+#### 04/17/2023 Sun (~Day 80)
+- Data Engineering ZoomCamp - Project - Between 3/13 and 4/4 Complete DE Zoom Camp project. This project will be continously enhanced.
+	- NCAA and College Sports Revenue - https://github.com/Shiva-Mantri/data-engineering-zoomcamp
+	- Certificate - https://certificate.datatalks.club/dezoomcamp/2022/32c7a7d396c69b36e1b1b8d406d67f64a2109d96.pdf
+
 #### 03/13/2023 Sun (~Day 70)
 - Data Engineering ZoomCamp - Wk 5 (Batch Processing - Spark), Wk 6 (Stream Processing - Kafka)
 	- Spark - https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_5_batch_processing
