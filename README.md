@@ -3,7 +3,7 @@
 #### 05/13/2023 Sun (~Day 90)
 - 30 days of StreamLit - https://share.streamlit.io/streamlit/30days
 - Resume/Advance NCAA and College Sports Revenue DE project
-- 
+
 #### 04/17/2023 Sun (~Day 80)
 - Data Engineering ZoomCamp - Project - Between 3/13 and 4/4 Complete DE Zoom Camp project. This project will be continously enhanced.
 	- NCAA and College Sports Revenue - https://github.com/Shiva-Mantri/data-engineering-zoomcamp
