@@ -1,5 +1,16 @@
 ## 100 Days of ML
 
+
+#### 05/29/2023 Sun (~Day 100)
+- wow 100 days of learning. Learned a lot, however still feels like I just scratched the surface of DS/AI/ML.
+	- Will restart the next 100 days
+- New Course - ML Ops Zoom Camp by DataTalks Club - https://github.com/DataTalksClub/mlops-zoomcamp
+	- Week 2 now. Will log notes soon.
+- Completed (in probably 10 days) - 30 days of StreamLit - https://share.streamlit.io/streamlit/30days
+	- Will be applying this to a JIRA reports project
+- Resume/Advance NCAA and College Sports Revenue DE project
+	- Still need to make progress on this
+
 #### 05/13/2023 Sun (~Day 90)
 - 30 days of StreamLit - https://share.streamlit.io/streamlit/30days
 - Resume/Advance NCAA and College Sports Revenue DE project
