@@ -1,5 +1,14 @@
 ## 100 Days of ML
 
+##### Sources
+- ML Daily - [bnomial](https://today.bnomial.com/), Newsletters - 
+
+#### 06/12/2023 Sun (Round 2 - Day 1)
+- ML Daily - Bias, Variance and Irredicible errors
+  - https://twitter.com/svpino/status/1390969728504565761
+    - [Increasing Bias lowers variance and vice versa](https://twitter.com/svpino/status/1390969735941173249?s=20&t=JzlVmlph-UHYD5k24qNuIg)
+  - https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/ 
+  - https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
 
 #### 05/29/2023 Sun (~Day 100)
 - wow 100 days of learning. Learned a lot, however still feels like I just scratched the surface of DS/AI/ML.
