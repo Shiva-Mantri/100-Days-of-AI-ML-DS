@@ -3,6 +3,11 @@
 ##### Sources
 - ML Daily - [bnomial](https://today.bnomial.com/), Newsletters - 
 
+#### 06/12/2023 Sun (Day 2.2)
+- ML Daily
+  - Linear Regression vs Neural Network - [link](https://towardsdatascience.com/linear-regression-v-s-neural-networks-cd03b29386d4), [link](https://www.kdnuggets.com/2021/08/3-reasons-linear-regression-instead-neural-networks.html), [Linear regression Intro](https://machinelearningmastery.com/linear-regression-for-machine-learning/), [Neural Network Intro](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture) 
+  - [Seaborn](https://seaborn.pydata.org/introduction.html) [PairPlot](https://seaborn.pydata.org/generated/seaborn.pairplot.html) - The simplest invocation uses scatterplot() for each pairing of the variables and histplot() for the marginal plots along the diagonal.
+
 #### 06/12/2023 Sun (Round 2 - Day 1)
 - ML Daily - Bias, Variance and Irredicible errors
   - https://twitter.com/svpino/status/1390969728504565761
