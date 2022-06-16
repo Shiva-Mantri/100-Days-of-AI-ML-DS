@@ -3,9 +3,13 @@
 ##### Sources
 - ML Daily - [bnomial](https://today.bnomial.com/), Newsletters - 
 
+#### 06/16/2023 Thu (Day 2.3)
+- ML Daily
+  - [Gradient Descent](https://machinelearningmastery.com/gradient-descent-for-machine-learning/), [Mini-Batch GD](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/), [Stochasic GD](https://machinelearningmastery.com/difference-between-backpropagation-and-stochastic-gradient-descent/)   
+
 #### 06/15/2023 Wed (Day 2.2)
 - ML Daily
-  - Linear Regression vs Neural Network - [link](https://towardsdatascience.com/linear-regression-v-s-neural-networks-cd03b29386d4), [link](https://www.kdnuggets.com/2021/08/3-reasons-linear-regression-instead-neural-networks.html), [Linear regression Intro](https://machinelearningmastery.com/linear-regression-for-machine-learning/), [Neural Network Intro](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture) 
+  - Linear Regression vs Neural Network - [link](https://towardsdatascience.com/linear-regression-v-s-neural-networks-cd03b29386d4), [link](https://www.kdnuggets.com/2021/08/3-reasons-linear-regression-instead-neural-networks.html), [Linear regression Intro](https://machinelearningmastery.com/linear-regression-for-machine-learning/), [Regression Analysis] (https://youtu.be/0m-rs2M7K-Y), [Neural Network Intro](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture) 
   - [Seaborn](https://seaborn.pydata.org/introduction.html) [PairPlot](https://seaborn.pydata.org/generated/seaborn.pairplot.html) - The simplest invocation uses scatterplot() for each pairing of the variables and histplot() for the marginal plots along the diagonal.
 
 #### 06/12/2023 Sun (Round 2 - Day 1)
