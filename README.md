@@ -1,7 +1,17 @@
 ## 100 Days of ML
 
 ##### Sources
-- ML Daily - [bnomial](https://today.bnomial.com/), Newsletters - 
+- ML Daily - [bnomial](https://today.bnomial.com/),
+- Newsletters
+  - ()
+  - ()
+
+#### 09/07/2023 Wed (Day 2.4)
+- ML Daily
+
+- MLZoomCamp - https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp
+  - [Intro to ML](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro)
+  - [My Project Page](https://github.com/Shiva-Mantri/MLZoomCamp/blob/main/README.md)
 
 #### 06/16/2023 Thu (Day 2.3)
 - ML Daily
