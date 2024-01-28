@@ -1,13 +1,8 @@
 ## 100 Days of ML
 
-##### Sources
-- ML Daily - [bnomial](https://today.bnomial.com/),
-- Newsletters
-  - ()
-  - ()
-
 #### 01/27/2024 Sat (Day 1)
-- ML Daily (bnomial) - **Median** - Middle number after sorting. https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/ 
+- ML Daily (bnomial)
+  - **Median** - Middle number after sorting. https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/
   
 #### 09/07/2023 Wed (Day 2.4)
 - ML Daily
