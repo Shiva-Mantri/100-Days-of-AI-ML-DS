@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 02/03/2024 Sat (Day 2)
+- ML Daily (bnomial) - **Feature Engineering** - Explained - https://builtin.com/articles/feature-engineering
+  - Feature engineering is the process of selecting, manipulating and transforming raw data into features that can be used in supervised learning.
+  
 #### 01/27/2024 Sat (Day 1)
 - ML Daily (bnomial)
   - **Median** - Middle number after sorting. https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/
