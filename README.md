@@ -1,5 +1,8 @@
 ## 100 Days of ML
 
+#### 02/21/2024 Wed (Day 3)
+- ML Daily (bnomial) - **Supervised, Unsupervised Learning** - Explained - https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+
 #### 02/03/2024 Sat (Day 2)
 - ML Daily (bnomial) - **Feature Engineering** - Explained - https://builtin.com/articles/feature-engineering
   - Feature engineering is the process of selecting, manipulating and transforming raw data into features that can be used in supervised learning.
