@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 02/22/2024 Wed (Day 4)
+- ML Daily (bnomial) - **Target Leakage** - Explained - https://www.youtube.com/watch?v=dWhdWxgt5SU, https://www.kaggle.com/code/alexisbcook/data-leakage
+- Leakage causes a model to look accurate until you start making decisions with the model, and then the model becomes very inaccurate.
+
 #### 02/21/2024 Wed (Day 3)
 - ML Daily (bnomial) - **Supervised, Unsupervised Learning** - Explained - https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
 
